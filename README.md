@@ -4,22 +4,25 @@ A collection of useful utilites written in python such as a calculator, random n
 
 ## Included utilities
 
-- Calculator
+- Main Launcher ( CoolUtilities.py )
+  - Allows you to easily launch all the other utilities with only having to run one command or file.
+
+- Calculator ( Calculator.py )
   - Arithmetic calculator with basic math functions to advanced ones such as factorials and square roots.
 
-- Unit Converter
+- Unit Converter ( UnitConverter.py )
   - Can convert between common units of length, capacity, and mass.
   - Supports meters, kilometers, centimeters, millimeters, miles, yards, feet, inches, liters, milliliters, gallons, quarts, pints, cups, fluid ounces, kilograms, grams, milligrams, pounds, and ounces.
 
-- Random Number Generator
+- Random Number Generator ( RandomNumberGenerator.py )
   - Generates a random integer between chosen minimum and maximum values.
   - Lets you reroll and adjust ranges easily.
 
-- Todo List
+- Todo List ( TodoList.py )
   - Allows you to make todo lists and lets you read, add, remove tasks from them, and also switch between them.
   - Useful for easy to use and light-weight personal task management without needing a large program or dependencies.
 
-- VirtualBox VM Controller
+- VirtualBox VM Controller ( VirtualBoxVMController.py )
   - Allows you to run, control, and manage VMs through the command line.
   - Intended for people who want a quick way to use VirtualBox without using a large or slow GUI.
 
