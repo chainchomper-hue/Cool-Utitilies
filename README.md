@@ -34,7 +34,7 @@ A collection of useful utilites written in python such as a calculator, random n
 
 ## Getting started
 
-1. Make sure Python 3 is installed.
+1. Make sure Python 3.10 or later is installed.
 2. Open a terminal in this project folder.
 3. Run the main launcher:
 
@@ -54,8 +54,10 @@ python VirtualBoxVMController.py
 
 ## Requirements and notes
 
+- You must use Python 3.10 or later to use all features.
 - The core utilities only use Python's built-in modules only.
-- The VirtualBox utility requires VirtualBox to be installed and `VBoxManage` to be available on the system.
+- The VirtualBox VM Controller utility requires VirtualBox to be installed and `VBoxManage` to be available on the system.
+  - Virtualbox 7.2 is recommended as it is the version the utility was created to work with but different versions may work as long as VBoxManage's syntax and commands are still the same.
 - On Linux, the script uses `/usr/bin/vboxmanage` as the location of VBoxManage by default.
 - On Windows, it checks the default VirtualBox install path.
 - On macOS, it checks the standard application bundle location.
