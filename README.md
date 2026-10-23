@@ -79,4 +79,4 @@ Some planned ideas may include:
 
 ## License
 
-This project is provided as-is for personal use. No formal license has been added yet.
+This project is licensed under the MIT License. Please check the file "LICENSE" for more information.
