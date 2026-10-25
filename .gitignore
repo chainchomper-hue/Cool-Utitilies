@@ -1,0 +1,15 @@
+# Python Cache
+
+__pycache__/
+
+# VSCode config
+
+.vscode/
+
+# VirtualBox VM Controller Screenshots
+
+*.png
+
+# Todo Lists / Pomodoro timer files
+
+*.txt
